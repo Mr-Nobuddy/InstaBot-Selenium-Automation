@@ -34,13 +34,13 @@ Open profile of “So Delhi”
 - Now print all the followers of “foodtalkindia” that you are following but those who don’t follow you.
 
 
-#### 7. Check the story of ‘coding.ninjas’. Consider the following Scenarios and print error messages accordingly -
+#### 7. Check the story Consider the following Scenarios and print error messages accordingly -
 - If You have already seen the story.
 - Or The user has no story.
 - Or View the story if not yet seen.
 
 
-# Instabot-Part2-CodingNinjas
+# Instabot-Part2
 The InstaBot repository is a Python project that utilizes the Selenium library to create a bot for automating interactions on Instagram. With this bot, you can perform various tasks on Instagram, such as liking posts, following users, leaving comments, and more, all in an automated manner.
 
 
